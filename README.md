@@ -13,8 +13,8 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{Email}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{nicolas.vendrami@gmail.com})](mailto:{nicolas.vendrami@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
+[![Gmail Badge](https://img.shields.io/badge/-{Contato}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{nicolas.vendrami@gmail.com})](mailto:{nicolas.vendrami@gmail.com})
+[![Linkedin: Nicolas](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
 
 
 ![Nicolas-Novacovski GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Novacovski&show_icons=true&theme=radical)

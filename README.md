@@ -13,10 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{Contato}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{nicolas.vendrami@gmail.com})](mailto:{nicolas.vendrami@gmail.com})
+[![Gmail](https://img.shields.io/badge/-Contato-006bed?style=flat-square&logo=mailto:{nicolas.vendrami@gmail.com})](mailto:{nicolas.vendrami@gmail.com})
 [![Linkedin: Nicolas](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
-
-
-![Nicolas-Novacovski GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Novacovski&show_icons=true&theme=radical)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>

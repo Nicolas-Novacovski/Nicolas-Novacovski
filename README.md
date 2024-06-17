@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+</p><br>
 
 
 ## 🚀 Linguagens de Programação
@@ -13,6 +13,6 @@
 
 ## 📫 Contato
 
-[![Linkedin: Nicolas](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
+[![Linkedin: Nicolas](https://img.shields.io/badge/-Nicolas-Novacovski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>

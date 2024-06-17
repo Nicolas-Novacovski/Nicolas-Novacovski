@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Nicolas</h1>
 
-<!--
-**Nicolas-Novacovski/Nicolas-Novacovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)<br><br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,bootstrap,git,github,react)](https://skillicons.dev)<br><br>
+
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-{Email}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{nicolas.vendrami@gmail.com})](mailto:{nicolas.vendrami@gmail.com})
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-novacovski-13095022a/)](https://www.linkedin.com/in/nicolas-novacovski-13095022a/)
+
+
+![Nicolas-Novacovski GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Novacovski&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
